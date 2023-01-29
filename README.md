@@ -20,4 +20,4 @@
 mendeklarasikan r serta memasukkan nilai jari-jari lingkaran bertipe data float
 - mendeklarasikan k dimana nilai variable tersebut didapat dari perhitungan 2*phi*r
 - menampilkan keliling lingkaran
-6. Flowchart luas dan keliling lingkaran ![keliling](gambar/keliling_lingkaran.png) ![luas](gambar/luas_lingkaran.png)
+6. Flowchart menghitung luas dan keliling lingkaran ![luas](gambar/luas_lingkaran.png) ![keliling](gambar/keliling_lingkaran.png)
