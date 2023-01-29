@@ -8,5 +8,5 @@
 - string formatting memungkinkan kita menyuntikkan item ke dalam string daripada kita mencoba menggabungkan string menggunakan koma.
 2. Latihan 2 ![latihan2](gambar/latihan2.png)
 - Melakukan output dengan menggunakan output formatting
-3. Latihan 3 1[latihan3](gambar/latiihan3.png)
+3. Latihan 3 ![latihan3](gambar/latiihan3.png)
 - Menggunakan string formatting untuk membuat pola diamond
