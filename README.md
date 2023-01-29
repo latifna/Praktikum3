@@ -10,3 +10,14 @@
 - Melakukan output dengan menggunakan output formatting
 3. Latihan 3 ![latihan3](gambar/latiihan3.png)
 - Menggunakan string formatting untuk membuat pola diamond
+4. Latihan 4 membuat program untuk menghitung luas lingkaran ![luas](gambar/luas.png)
+- mendeklarasikan phi dengan nilai 3.14
+- mendeklarasikan variable r serta memasukkan nilai jari-jari lingkaran bertipe data float
+- mendeklarasikan variable luas dimana nilai variable tersebut didapat dari perhitungan phi*r*r
+-menampilkan nilai dari variable luas
+5. Latihan 5 membuat program untuk menghitung keliling lingkaran ![keliling](gambar/keliling.png)
+- mendeklarasikan phi dengan nilain 3.14
+mendeklarasikan r serta memasukkan nilai jari-jari lingkaran bertipe data float
+- mendeklarasikan k dimana nilai variable tersebut didapat dari perhitungan 2*phi*r
+- menampilkan keliling lingkaran
+6. Flowchart luas dan keliling lingkaran ![keliling](gambar/keliling_lingkaran.png) ![luas](gambar/luas_lingkaran.png)
